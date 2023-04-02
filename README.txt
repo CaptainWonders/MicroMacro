@@ -2,6 +2,9 @@ MicroMacro is a simple autoclicker type program that records your clicks and rep
 Using this app, you could automatically open applications or do predetermined tasks to a limited degree. 
 For example: I used it to set up a macro to open three applications that I always use together.
 
+RUN THE EXE, THE .PY FILE WILL NOT WORK UNLESS YOU INSTALL SEVERAL LIBRARIES.
+The EXE also needs resized manually, because its dimensions are not consistant
+
 Controls:
 
 Record Actions: Press this button to begin recording mouse clicks, you can add as many as you would like. If you hold down click, you will register several clicks which is convienent for spam-click heavy automation such as automating idle games.
